@@ -17,7 +17,8 @@
 - **Languages & Tools**: Python | SQL | Excel | GitHub  
 - **Data Visualization**: Power BI | Matplotlib | Seaborn  
 - **Data Analytics**: ETL, DAX, Data Cleaning, Dashboarding  
-- **Other**: Machine Learning Basics, Cloud Fundamentals Besics  
+- **Other**: Machine Learning Basics, Cloud Fundamentals Besics
+- **Python library**: Numpy, Pandas
 
 ---
 
