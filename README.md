@@ -24,7 +24,7 @@
 
 ## Projects  
 
-### 🔹 [Power BI Sales & Customer Dashboard](https://github.com/YourUsername/PowerBI-Sales-Customer-Dashboard)  
+### 🔹 [Power BI Sales & Customer Dashboard](https://github.com/Rajkumar011111/Sales-Customer-Dashboard)  
 📌 Analyzed sales data to track revenue, product performance, and customer distribution.  
 - 💰 Total Sales: ₹9.60M+  
 - 🏆 Top Product: 1992 Ferrari 360 Spider Red  
