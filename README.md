@@ -29,7 +29,7 @@
 - 💰 Total Sales: ₹9.60M+  
 - 🏆 Top Product: 1992 Ferrari 360 Spider Red  
 - 🚗 Classic Cars: ~40% of sales contribution  
-![Dashboard Preview](([https://github.com/Rajkumar011111/Sales-Customer-Dashboard/blob/main/datasets_dashboard1.png](https://github.com/Rajkumar011111/Sales-Customer-Dashboard/blob/main/datasets_dashboard1.png)))  
+![Dashboard Preview](https://github.com/Rajkumar011111/Sales-Customer-Dashboard/blob/main/datasets_dashboard1.png)  
 
 ---
 ## 📊 Featured Projects  
